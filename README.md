@@ -3,6 +3,8 @@
 **Filter Shell** is a wrapper CLI tool built on top of [php_filter_chain_generator](https://github.com/synacktiv/php_filter_chain_generator) by Synacktiv.  
 It exploits Local File Inclusion (LFI) vulnerabilities via PHP filter chaining to execute commands remotely without requiring file uploads.
 
+
+![Filter Shell](filter-shell.gif)
 ---
 
 ## Features
