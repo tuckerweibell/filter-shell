@@ -35,5 +35,5 @@ cd filter-shell
 
 ## Usage
 ```bash
-ruby filter_shell.rb http://TARGET:PORT/PATH?PARAM=
+ruby filter_shell.rb 'http://TARGET:PORT/PATH?PARAM='
 ```
