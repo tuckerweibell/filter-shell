@@ -9,9 +9,9 @@
 ## Features
 
 - Interactive shell interface for command execution through LFI vulnerabilities
-- Automatic cloning of the underlying `php_filter_chain_generator` tool if not present
 - Supports command checking with URL length estimation
-- Remote OS detection (Linux/Windows)
+- Supports raw filter chain payload generation
+- Basic remote OS detection (Linux/Windows)
 - Basic help and usability commands
 
 ---
